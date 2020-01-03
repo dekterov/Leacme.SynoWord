@@ -5,6 +5,7 @@
 This application features the ability to define a specified term by profiving its word definition and related info.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704224-4093e500-2d96-11ea-8e64-ca13904d9a26.png)
 
 ## Application Compiling
 
